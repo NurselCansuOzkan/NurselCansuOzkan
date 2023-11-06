@@ -1,7 +1,5 @@
-# NurselCansuOzkan
-
-<h1 align="center">Hello everyone 👋 </h1>
-<h1 align="center">I'm Nursel Cansu Özkan Aşar</h1>
+<h3 align="center">Hello everyone 👋 </h1>
+<h3 align="center">I'm Nursel Cansu Özkan Aşar</h1>
 <h3 align="center">Just a Developer :) </h3>
 
 <h3 align="left">Important for Me:</h3>
