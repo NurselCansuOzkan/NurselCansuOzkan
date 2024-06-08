@@ -7,6 +7,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
   <img src="https://laravel.com/img/logomark.min.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
+  <img src="http://www.w3.org/2000/svg" alt="react" width="40" height="40"/> </a>
  
 <!--
 **NurselCansuOzkan/NurselCansuOzkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
