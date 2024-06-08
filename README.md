@@ -10,6 +10,8 @@
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
    <img src="https://camo.githubusercontent.com/8fd05825a2b55ee599b37e1695a4bbe2d16d8e43ace3a6ba5a9fe7929f2d153c/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67" alt="react" width="40" height="40"/>
   </a>
+  <a href="https://testng.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://i.pinimg.com/736x/7f/60/db/7f60db65eac12c8d02e45280dd53381a.jpg" alt="TestNG" width="40" height="40"/> </a>
   <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> 
   <img src="https://avatars.githubusercontent.com/u/320565?s=280&v=4" alt="Cucumber" width="40" height="40"/> </a>
 
