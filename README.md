@@ -14,6 +14,9 @@
   <img src="https://i.pinimg.com/736x/7f/60/db/7f60db65eac12c8d02e45280dd53381a.jpg" alt="TestNG" width="40" height="40"/> </a>
   <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> 
   <img src="https://avatars.githubusercontent.com/u/320565?s=280&v=4" alt="Cucumber" width="40" height="40"/> </a>
+<a href="https://codecept.io" target="_blank" rel="noreferrer"> 
+  <img src="https://codecept.io/logo.svg" alt="Codeceptjs" width="40" height="40"/> </a>
+
 
   
  
