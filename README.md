@@ -4,20 +4,22 @@
 <h3 align="center">Software Developer and Test Engineer :) </h3>
 
 <h3 align="left">Important for Me:</h3>
+<img align="left" alt="Selenium" width="26px" src="https://camo.githubusercontent.com/8fd05825a2b55ee599b37e1695a4bbe2d16d8e43ace3a6ba5a9fe7929f2d153c/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67" />
 
-<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer" style="text-decoration: none!important"> 
-   <img src="https://camo.githubusercontent.com/8fd05825a2b55ee599b37e1695a4bbe2d16d8e43ace3a6ba5a9fe7929f2d153c/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67" alt="Selenium" width="40" height="40"/>
-  </a>
-  <a href="https://testng.org/" target="_blank" rel="noreferrer" style="text-decoration: unset!important"> 
-  <img src="https://i.pinimg.com/736x/7f/60/db/7f60db65eac12c8d02e45280dd53381a.jpg" alt="TestNG" width="40" height="40"/> </a>
-  <a href="https://cucumber.io/" target="_blank" rel="noreferrer" style="text-decoration: unset!important"> 
-  <img src="https://avatars.githubusercontent.com/u/320565?s=280&v=4" alt="Cucumber" width="40" height="40"/> </a>
-<a href="https://codecept.io" target="_blank" rel="noreferrer" style="text-decoration: unset!important"> 
-  <img src="https://codecept.io/logo.svg" alt="Codeceptjs" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration: unset!important" > 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer" style="text-decoration: unset!important"> 
-  <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="40" height="40"/> </a>
+<img align="left" alt="TestNG" width="40px" src="https://i.pinimg.com/736x/7f/60/db/7f60db65eac12c8d02e45280dd53381a.jpg" />
+<img align="left" alt="Cucumber" width="26px" src="https://avatars.githubusercontent.com/u/320565?s=280&v=4" />
+<img align="left" alt="Codeceptjs" width="26px" src="https://codecept.io/logo.svg" />
+<img align="left" alt="Intellij Idea" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Laravel" width="26px" src="https://laravel.com/img/logomark.min.svg" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
   
  
