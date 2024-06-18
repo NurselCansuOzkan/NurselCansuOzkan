@@ -9,6 +9,7 @@
 <img align="left" alt="TestNG" width="40px" src="https://i.pinimg.com/736x/7f/60/db/7f60db65eac12c8d02e45280dd53381a.jpg" />
 <img align="left" alt="Cucumber" width="26px" src="https://avatars.githubusercontent.com/u/320565?s=280&v=4" />
 <img align="left" alt="Codeceptjs" width="26px" src="https://codecept.io/logo.svg" />
+<img align="left" alt="JMeter" width="29px" src="https://jmeter.apache.org/images/jmeter_square.svg" />
 <img align="left" alt="Intellij Idea" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
