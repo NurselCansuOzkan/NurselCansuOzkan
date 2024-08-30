@@ -4,7 +4,7 @@
 <h3 align="center">Software Developer and Test Engineer :) </h3>
 
 <h3 align="left">Important for Me:</h3>
-<img align="left" alt="Selenium" width="26px" src="https://camo.githubusercontent.com/8fd05825a2b55ee599b37e1695a4bbe2d16d8e43ace3a6ba5a9fe7929f2d153c/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67" />
+<img align="left" alt="Selenium" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1200px-Selenium_Logo.png" />
 
 <img align="left" alt="TestNG" width="40px" src="https://i.pinimg.com/736x/7f/60/db/7f60db65eac12c8d02e45280dd53381a.jpg" />
 <img align="left" alt="Cucumber" width="26px" src="https://avatars.githubusercontent.com/u/320565?s=280&v=4" />
