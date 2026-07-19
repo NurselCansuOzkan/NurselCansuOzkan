@@ -5,7 +5,6 @@
 
 <h3 align="left">Important for Me:</h3>
 <img align="left" alt="Selenium" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/960px-Selenium_Logo.png" />
-
 <img align="left" alt="TestNG" width="40px" src="https://i.pinimg.com/736x/7f/60/db/7f60db65eac12c8d02e45280dd53381a.jpg" />
 <img align="left" alt="Cucumber" width="26px" src="https://avatars.githubusercontent.com/u/320565?s=280&v=4" />
 <img align="left" alt="Jenkins" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Jenkins_logo.png/960px-Jenkins_logo.png" />
@@ -24,8 +23,6 @@
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-  
- 
 <!--
 **NurselCansuOzkan/NurselCansuOzkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
