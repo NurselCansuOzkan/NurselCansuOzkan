@@ -8,6 +8,8 @@
 
 <img align="left" alt="TestNG" width="40px" src="https://i.pinimg.com/736x/7f/60/db/7f60db65eac12c8d02e45280dd53381a.jpg" />
 <img align="left" alt="Cucumber" width="26px" src="https://avatars.githubusercontent.com/u/320565?s=280&v=4" />
+<img align="left" alt="Jenkins" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Jenkins_logo.png/960px-Jenkins_logo.png" />
+<img align="left" alt="Gauge" width="26px" src="https://static.cdnlogo.com/logos/g/27/gauge.svg" />
 <img align="left" alt="Codeceptjs" width="26px" src="https://codecept.io/logo/icon.svg" />
 <img align="left" alt="JMeter" width="29px" src="https://jmeter.apache.org/images/jmeter_square.svg" />
 <img align="left" alt="Intellij Idea" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/JetBrains_IntelliJ_IDEA_Product_Icon.svg/960px-JetBrains_IntelliJ_IDEA_Product_Icon.svg.png" />
