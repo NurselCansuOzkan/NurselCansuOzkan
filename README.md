@@ -1,7 +1,7 @@
 
 <h3 align="center">Hello everyone 👋 </h1>
-<h3 align="center">I'm Nursel Cansu Özkan Aşar</h1>
-<h3 align="center">Software Developer and Test Engineer :) </h3>
+<h3 align="center">I'm Nursel Cansu Özkan</h1>
+<h3 align="center">Software Developer :) </h3>
 
 <h3 align="left">Important for Me:</h3>
 <img align="left" alt="Selenium" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/960px-Selenium_Logo.png" />
